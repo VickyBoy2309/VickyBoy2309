@@ -1,4 +1,7 @@
-## Hi there 👋
+### Skills
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
+
 
 <!--
 **VickyBoy2309/VickyBoy2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
