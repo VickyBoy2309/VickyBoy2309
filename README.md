@@ -36,7 +36,7 @@
 - 🌱 Currently learning **React.js, Node.js, MongoDB**
 - 🧠 Improving **DSA + Full Stack Development**
 - 🚀 Working on my project: **BAYMAX**
-- 📫 Reach me: **yourmail@gmail.com** (change this)
+- 📫 Reach me: **0987vickyboy@gmail.com** (change this)
 
 ---
 
@@ -59,7 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
-✅ **IMPORTANT:** Replace `VickyBoy23209` with your GitHub username.
 
 ---
 
