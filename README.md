@@ -36,7 +36,7 @@
 - 🌱 Currently learning **React.js, Node.js, MongoDB**
 - 🧠 Improving **DSA + Full Stack Development**
 - 🚀 Working on my project: **BAYMAX**
-- 📫 Reach me: **0987vickyboy@gmail.com** (change this)
+- 📫 Reach me: **0987vickyboy@gmail.com**
 
 ---
 
@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickyBoy2309&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 
@@ -71,24 +71,10 @@
 
 ---
 
-### 🌐 Portfolio Website
-✅ Personal portfolio website  
-📌 Tech Used: HTML, CSS, JS  
-🔗 Repo: https://github.com/YOUR_USERNAME/portfolio
-
----
-
-### 🧾 Mini React Projects
-✅ Small React apps for practice  
-📌 Tech Used: React.js  
-🔗 Repo: https://github.com/YOUR_USERNAME/react-mini-projects
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/VickyBoy2309" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
