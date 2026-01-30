@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Computer Science Student<br>👯 I’m looking to collaborate on BAYMAX<br>🤝<br>🌱 I’m currently learning Full Stack Web Development<br>t<br>⚡ Fun fact "I'm Iron Man 😎"
+🔭 I’m a Computer Science Student<br>👯 I’m looking to collaborate on BAYMAX<br>🤝<br>🌱 I’m currently learning Full Stack Web Development<br>⚡ Fun fact "I'm Iron Man 😎"
 
 
 ## 🌐 Socials:
@@ -18,8 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VickyBoy2309&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VickyBoy2309&icon=8&color=0)](https://visitcount.itsvg.in)
