@@ -67,7 +67,7 @@
 ### 🤖 BAYMAX (Main Project)
 ✅ **BAYMAX** – Smart Project System  
 📌 Tech Used: React, Node.js, MongoDB  
-🔗 Repo: https://github.com/YOUR_USERNAME/BAYMAX
+🔗 Repo: https://github.com/VickyBoy2309/BAYMAX
 
 ---
 
