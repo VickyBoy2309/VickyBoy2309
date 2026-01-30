@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Computer Science Student<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m a Computer Science Student<br>👯 I’m looking to collaborate on BAYMAX<br>🤝<br>🌱 I’m currently learning Full Stack Web Development<br>t<br>⚡ Fun fact "I'm Iron Man 😎"
 
 
 ## 🌐 Socials:
