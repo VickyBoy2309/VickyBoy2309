@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠️ Skills & Tools (Icons)
+## 🛠️ Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,bootstrap,tailwind,git,github,vscode,mysql&theme=dark" />
@@ -59,8 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickyBoy2309&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
-
----
 
 ## 🚀 Projects
 
